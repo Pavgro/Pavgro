@@ -1,7 +1,6 @@
 
 
 
-![784291-1557423356022-16x9](https://user-images.githubusercontent.com/67739639/159544966-61313333-0023-463d-8ff8-f84842ed49aa.jpg)
 
 
 - 👋 Hi, I’m @Pavgro
