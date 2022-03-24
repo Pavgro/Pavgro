@@ -8,12 +8,15 @@ I'm Pavel, computer engineer from <img src="https://user-images.githubuserconten
 - 👀 Primarily intrested in Machine Learning and AI.
 - 🌱 I’m currently learning ...
 
+## 📫 How to reach me:
+- [LinkedIn](https://www.linkedin.com/in/pavelgrobov/)
+
 <!---
 python and data engineering
 Pavgro/Pavgro is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-# Programming Languages 
+# Programming Languages :computer:
 
 <img src="https://user-images.githubusercontent.com/67739639/159704485-9c4338d7-7af6-4df0-bd4d-60a458bcd7ff.png" width="50" height="50"> <img src="https://user-images.githubusercontent.com/67739639/159704897-a1692cec-0ec4-4cb5-8952-dc9c04b484b1.png" width="50" height="50"> <img src="https://user-images.githubusercontent.com/67739639/159704982-a1efa5af-b572-4a59-9996-8edb943c3639.png" width="50" height="50"> <img src="https://user-images.githubusercontent.com/67739639/159707412-fd26c988-6958-4c03-a5ef-36398caf5d7a.png" width="35" height="50">
 <img src="https://user-images.githubusercontent.com/67739639/159707883-119fddd4-18c8-4944-aeb9-1ff5419a067f.png" width="50" height="50">
