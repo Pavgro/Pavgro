@@ -4,7 +4,7 @@
 
 
 ### Nice to see you!
-I'm Pavel, computer engineer from <img src="https://user-images.githubusercontent.com/67739639/159756927-5e9b6a5c-d496-4795-8770-8bc37d6ff8ed.png" width="20" height="20"> Lod, Israel.
+I'm Pavel, computer engineer from <img src="https://user-images.githubusercontent.com/67739639/159756927-5e9b6a5c-d496-4795-8770-8bc37d6ff8ed.png" width="20" height="20">  Israel.
 - 👀 Primarily intrested in Machine Learning and AI.
 - 🌱 I’m currently learning ...
 
